@@ -1,3 +1,6 @@
+#Added SER object 
+*.ser
+
 # Compiled class file
 *.class
 
